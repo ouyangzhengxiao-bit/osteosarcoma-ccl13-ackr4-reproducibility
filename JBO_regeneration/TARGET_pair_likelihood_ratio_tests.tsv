@@ -1,0 +1,4 @@
+comparison	lr_chisq	df	p
+mean_pair_beyond_clinical	5.452671994649933	1	0.019538421169490408
+mean_pair_beyond_clinical_lineages	7.159327383780237	1	0.007457515629586129
+interaction_beyond_gene_main_effects	0.18736583063295598	1	0.6651181165884023

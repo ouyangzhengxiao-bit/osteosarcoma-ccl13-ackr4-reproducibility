@@ -1,0 +1,2 @@
+cohort	platform	unique_samples	pretreatment_biopsies	msc_reference	osteoblast_reference	huvos_complete	survival_endpoint_available	metastasis_endpoint_available	GSE21257_samples	GSE21257_GSM_overlap
+GSE42352	GPL10295	99	84	12	3	71	False	False	53	0

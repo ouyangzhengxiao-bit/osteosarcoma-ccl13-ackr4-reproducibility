@@ -1,0 +1,2 @@
+model	term	n	proportional_odds_ratio	ci_low	ci_high	p
+Ordinal Huvos grade + age/sex	pair_mean_z	71	0.8987593855309222	0.5810832445731153	1.3901079417172606	0.6314423386057095
