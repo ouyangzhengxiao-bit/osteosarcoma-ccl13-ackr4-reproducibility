@@ -1,0 +1,7 @@
+ligand	analysis_role	ACKR4_evidence	curation_note
+CCL13	database-derived candidate	not established	Not listed by IUPHAR; absent from the systematic 43-chemokine ACKR4 screen
+CCL19	curated comparator	established	IUPHAR endogenous ligand
+CCL20	curated comparator	supported	Binding, uptake and beta-arrestin recruitment reported in two studies
+CCL21	curated comparator	established	IUPHAR endogenous ligand
+CCL22	curated comparator	supported	Partial ACKR4 agonism reported in a systematic screen
+CCL25	curated comparator	established	IUPHAR endogenous ligand

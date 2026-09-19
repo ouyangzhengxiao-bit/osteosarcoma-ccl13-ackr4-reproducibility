@@ -1,6 +1,6 @@
 # Osteosarcoma CCL13–ACKR4 reproducibility archive
 
-This repository accompanies the manuscript **“Cross-cohort single-cell and spatial testing of a CCL13-ACKR4 communication hypothesis in osteosarcoma.”** It contains the source tables and analysis/figure-generation scripts used for the reported bulk, single-cell, and spatial sensitivity analyses.
+This repository accompanies the manuscript **“Biochemical and cross cohort audit of a database derived ACKR4 signal in osteosarcoma.”** It contains the source tables and analysis/figure-generation scripts used for the reported pharmacology-informed bulk, single-cell, and spatial analyses.
 
 ## Contents
 
@@ -8,12 +8,14 @@ This repository accompanies the manuscript **“Cross-cohort single-cell and spa
 - `quality_upgrade_v3/`: patient-level single-cell and spatial robustness outputs.
 - `quality_upgrade_v4/`: TARGET-OS expression, clinical-model, and repeated cross-validation outputs.
 - `quality_upgrade_v5/`: independent GSE42352 context and chemotherapy-response analyses.
+- `quality_upgrade_v7/`: ACKR4 ligand curation, fixed six-ligand TARGET-OS models, and cross-modal detectability summaries.
 - `JBO_regeneration/`: consolidated tables used to regenerate the Journal of Bone Oncology manuscript results.
 - `figure_generation/`: the manuscript figure-generation script.
+- `figure_generation_final/`: title-free four-main-figure and three-supplementary-figure assembly script.
 
 ## Public datasets
 
-The analyses use de-identified public data from TARGET-OS and GEO accessions GSE21257, GSE39055, GSE32981, GSE42352, GSE152048, GSE162454, GSE270231, GSE293065, and GSE299025. Raw public matrices are not duplicated here; retrieve them from the Genomic Data Commons or GEO using the listed identifiers.
+The final manuscript uses de-identified public data from TARGET-OS and GEO accessions GSE42352, GSE152048, GSE162454, GSE270231, GSE293065, and GSE299025. Raw public matrices are not duplicated here; retrieve them from the Genomic Data Commons or GEO using the listed identifiers. Earlier audit tables retained in the archive may reference additional GEO cohorts.
 
 ## Reproducibility notes
 

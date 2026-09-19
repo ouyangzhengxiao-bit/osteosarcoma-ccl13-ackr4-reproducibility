@@ -1,0 +1,13 @@
+ligand	receptor	model	n	events	odds_ratio_per_SD	ci_low	ci_high	wald_p	BH_q_within_model	analysis_role	ACKR4_evidence	curation_note
+CCL13	ACKR4	age_sex	87	22	1.982282781490302	1.0386613752577256	3.7831820065687003	0.03798694265713573	0.1361770486487752	database-derived candidate	not established	Not listed by IUPHAR; absent from the systematic 43-chemokine ACKR4 screen
+CCL13	ACKR4	age_sex_lineages	87	22	2.3142855510831253	1.1462807637936103	4.672430857364075	0.019241579176909954	0.057891989122179244	database-derived candidate	not established	Not listed by IUPHAR; absent from the systematic 43-chemokine ACKR4 screen
+CCL19	ACKR4	age_sex	87	22	1.7041850574957966	1.0109924934771484	2.87266891587222	0.045392349549591725	0.1361770486487752	curated comparator	established	IUPHAR endogenous ligand
+CCL19	ACKR4	age_sex_lineages	87	22	1.958928562252035	1.115318259263422	3.4406332722833017	0.01929732970739308	0.057891989122179244	curated comparator	established	IUPHAR endogenous ligand
+CCL20	ACKR4	age_sex	87	22	1.2585370299857939	0.7304137454179185	2.168518138906599	0.40747928732755057	0.40747928732755057	curated comparator	supported	Binding, uptake and beta-arrestin recruitment reported in two studies
+CCL20	ACKR4	age_sex_lineages	87	22	1.258747332523408	0.7285626460412516	2.1747544370331098	0.40946277205239767	0.40946277205239767	curated comparator	supported	Binding, uptake and beta-arrestin recruitment reported in two studies
+CCL21	ACKR4	age_sex	87	22	1.5270957031624415	0.9107234563294231	2.560625039807542	0.10841415696207399	0.17129312283124595	curated comparator	established	IUPHAR endogenous ligand
+CCL21	ACKR4	age_sex_lineages	87	22	1.6114000911984354	0.9434725773458542	2.7521841294200877	0.08065307338228594	0.1613061467645719	curated comparator	established	IUPHAR endogenous ligand
+CCL22	ACKR4	age_sex	87	22	1.322576169705955	0.7831439323654225	2.2335711896416486	0.2956981121330986	0.3548377345597183	curated comparator	supported	Partial ACKR4 agonism reported in a systematic screen
+CCL22	ACKR4	age_sex_lineages	87	22	1.4618002734470055	0.8488208030906701	2.5174454156509203	0.17100984601071456	0.20521181521285747	curated comparator	supported	Partial ACKR4 agonism reported in a systematic screen
+CCL25	ACKR4	age_sex	87	22	1.5169205623393847	0.9045373095897835	2.5438950588910285	0.11419541522083063	0.17129312283124595	curated comparator	established	IUPHAR endogenous ligand
+CCL25	ACKR4	age_sex_lineages	87	22	1.5060941427364911	0.8815575450321305	2.573081677501259	0.13396938466782118	0.2009540770017318	curated comparator	established	IUPHAR endogenous ligand
